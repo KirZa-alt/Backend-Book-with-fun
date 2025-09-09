@@ -33,7 +33,7 @@ backend-learning-app/
 ## 🚀 Getting Started  
 
 ### 1. Clone the Repo
-```bash
+
 git clone https://github.com/your-username/backend-learning-app.git
 cd backend-learning-app
 
@@ -107,6 +107,3 @@ This project is open-source under the MIT License.😊😊😊
 🚀 Ready to Learn Backend in a Fun Way?
 
 Clone → Run → Learn → Play → Master Backend! 🎉
-
-
-## 📂 Project Structure
